@@ -4,7 +4,7 @@
 1. Fill in the api keys in test.rb (3 different api keys)
 2. Run `ruby test.rb`
 3. After 30-60 seconds error should appear
-4. Might need to retry multiple times
+4. Might need to retry steps 2-3 multiple times to get the error to appear
 
 ```
 ruby test.rb  
