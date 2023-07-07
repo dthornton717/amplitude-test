@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amplitude-experiment (1.1.3)
+      ffi (~> 1.15.5)
+    ffi (1.15.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  amplitude-experiment (= 1.1.3)
+
+BUNDLED WITH
+   2.1.4
